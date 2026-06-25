@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: "/Verify-coach/",
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
