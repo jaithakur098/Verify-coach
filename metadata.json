@@ -1,0 +1,6 @@
+{
+  "name": "CoachVerify.in",
+  "description": "India's largest and most trusted Sports Coach Verification, Registration & Directory Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
